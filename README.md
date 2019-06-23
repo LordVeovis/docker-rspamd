@@ -8,8 +8,8 @@ An alpine-based docker container providing rspamd.
 
 This container provides rspamd.
 
-* rspamd 1.8.3
-* Alpine 3.9
+* rspamd 1.9.4
+* Alpine 3.10
 
 ## Installing
 
