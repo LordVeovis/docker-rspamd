@@ -1,4 +1,4 @@
-[![](https://img.shields.io/docker/cloud/build/veovis/rspamd.svg)](https://hub.docker.com/r/veovis/rspamd/builds) [![](https://img.shields.io/docker/pulls/veovis/rspamd.svg)](https://hub.docker.com/r/veovis/rspamd) ![](https://img.shields.io/microbadger/image-size/veovis%2Frspamd.svg) [![](https://img.shields.io/github/tag/LordVeovis/docker-rspamd.svg)](https://github.com/LordVeovis/docker-rspamd/tags) [![](https://img.shields.io/github/license/LordVeovis/docker-rspamd.svg)](https://github.com/LordVeovis/docker-rspamd/blob/master/LICENSE)
+[![CircleCI](https://circleci.com/gh/LordVeovis/docker-rspamd/tree/master.svg?style=shield)](https://circleci.com/gh/LordVeovis/docker-rspamd/tree/master) [![](https://img.shields.io/docker/pulls/veovis/rspamd.svg)](https://hub.docker.com/r/veovis/rspamd) ![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/veovis/postfix) [![](https://img.shields.io/github/tag/LordVeovis/docker-rspamd.svg)](https://github.com/LordVeovis/docker-rspamd/tags) [![](https://img.shields.io/github/license/LordVeovis/docker-rspamd.svg)](https://github.com/LordVeovis/docker-rspamd/blob/master/LICENSE)
 
 # rspamd
 
@@ -8,8 +8,8 @@ An alpine-based docker container providing rspamd.
 
 This container provides rspamd.
 
-* rspamd 1.9.4
-* Alpine 3.10
+* rspamd 2.7
+* Alpine 3.14
 
 ## Installing
 

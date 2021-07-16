@@ -1,4 +1,4 @@
-FROM alpine:3.10
+FROM alpine:3.14
 
 RUN set -xe; \
 	apk add rspamd \
